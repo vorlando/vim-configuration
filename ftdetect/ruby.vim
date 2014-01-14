@@ -1,3 +1,5 @@
+"Haml
+au BufNewFile,BufRead *.haml			set filetype=haml
 " Ruby
 au BufNewFile,BufRead *.rb,*.rbw,*.gemspec	set filetype=ruby
 
